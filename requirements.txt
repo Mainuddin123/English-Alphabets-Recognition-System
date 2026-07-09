@@ -6,5 +6,3 @@ opencv-contrib-python-headless==4.11.0.86
 numpy==1.26.4
 scikit-learn==1.9.0
 joblib==1.5.3
-libgl1
-libglib2.0-0
