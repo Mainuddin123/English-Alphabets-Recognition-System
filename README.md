@@ -8,7 +8,7 @@ The system combines real-time hand tracking, computer vision, image preprocessin
 
 Try the deployed application:
 
-https://english-alphabets-recognition-system-7ssv5mkrtt3qhtw4zq7dha.streamlit.app/
+https://airdraw-alphabet-recognition.streamlit.app/
 
 ## 📌 Project Overview
 
